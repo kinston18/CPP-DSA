@@ -20,5 +20,4 @@ else
     else
     cout<<"The no. is zero";
 }
-
 }
